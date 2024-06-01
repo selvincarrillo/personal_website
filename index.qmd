@@ -1,0 +1,30 @@
+---
+title: "Selvin Carrillo"
+image: peaches.jpg
+
+about:
+  template: jolla
+  image-shape: round 
+  image-width: 15em
+  links:
+     - text: Email 
+       icon: envelope
+       href: mailto:selvincar@hotmail.com
+     - text: LinkedIn
+       icon: linkedin
+       href: https://www.linkedin.com/in/selvincarrillo/
+     - text: GitHub
+       icon: github
+       href: https://github.com/selvincarrillo
+     - text: Resume 
+       icon: file-text
+       href: CV_SCR.pdf
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
