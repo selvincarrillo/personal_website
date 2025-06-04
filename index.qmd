@@ -1,0 +1,31 @@
+---
+title: "Selvin Carrillo"
+image: images/nectarine.jpg
+
+
+about:
+  template: jolla
+  image-shape: round 
+  image-width: 15em
+  links:
+     - text: Email 
+       icon: envelope
+       href: mailto:selvincar@hotmail.com
+     - text: LinkedIn
+       icon: linkedin
+       href: https://www.linkedin.com/in/selvincarrillo/
+     - text: GitHub
+       icon: github
+       href: https://github.com/selvincarrillo
+     - text: Resume 
+       icon: file-text
+       href: CV_SCR.pdf
+---
+
+Ph.D student in the Department of Horticulture, 
+
+[Dr. Dario Chavez Lab](https://site.caes.uga.edu/chavezlab/) - University of Georgia.
+
+
+![A peach orchard](images/peaches.jpg)
+

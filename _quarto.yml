@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Selvin Carrillo"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - Projects.qmd
+      - Resources.qmd
+  
+  
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 12pt
+    fontcolor: black
+    linkcolor: "#ff33f0"
+    mono-font: courier new
+    css: style.css
+    toc: true
+  
+
+
+
