@@ -40,6 +40,9 @@ format:
     # css: style.css
     toc: true
   
+execute:
+  freeze: auto
+
 
 
 
