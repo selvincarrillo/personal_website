@@ -1,12 +1,53 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
+    "objectID": "Resources.html",
+    "href": "Resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Data Science\n\nR for Data Science (2e)\nggplot2: Elegant Graphics for Data Analysis (3e)\nQuarto\nShiny\nPyNotes in Agriscience",
+    "text": "Data Science\n\nR for Data Science (2e)\nggplot2: Elegant Graphics for Data Analysis (3e)\nQuarto\nShiny\nPyNotes in Agriscience"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "These Apps were created while learning shiny!\n\nTo learn move about College Score data\nTo learn more about Gun Deaths in the US"
+  },
+  {
+    "objectID": "Projects.html#apps",
+    "href": "Projects.html#apps",
+    "title": "Projects",
+    "section": "",
+    "text": "These Apps were created while learning shiny!\n\nTo learn move about College Score data\nTo learn more about Gun Deaths in the US"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Welcome to my website! I am so glad you are here.\n\n  \n    \n\n    \n  \n    \n     Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     ResearchGate\n  \n  \n    \n     Resume\n  \n\n  \n  \nI am a Ph.D student in the Department of Horticulture at the University of Georgia, USA. I am part of the Peach and Critrus Breeding program in the Dr. Dario Chavez Lab. Learn more about me here.\nEducation\n\nNorth Carolina State University | Raleigh, NC\n\nM.S. in Crop Science | Jan 2021 - Dec 2022\n\nUniversidad de San Carlos | Guatemala\n\nB.S. Agronomy with Emphasis in Fruit Crops | Jan 2008 - May 2014\n\n\n\n\n\n\n\n\nLove Peaches",
     "crumbs": [
-      "Resources"
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Welcome!\nSelvin Carrillo is currently a Ph.D. student in the Department of Horticulture at the University of Georgia. His research focuses on enhancing orchard management practices such as mineral nutrition, root phenotyping, irrigation scheduling, and rootstock-scion interactions in peaches. These projects are under the supervision of Dr. Dario Chavez Chavez Lab.\nSelvin Carrillo was born in Guatemala, where he earned a bachelor’s degree in Agronomy at the University of San Carlos and a specialization in Agricultural Research through the partnership ICTA-CUNOC-IICA/CRIA. Before graduate school, he did an internship through the Worldwide Farmers Exchange Program, and worked at the Inter-American Institute for Cooperation on Agriculture IICA-TAAF Meso Andino Project, the Instituto de Ciencia y Tecnología Agrícolas, and the Farmer-to-Farmer Program implemented by Partners of the Americas. He then completed a master’s degree in Crop Science at North Carolina State University working in heat stress.",
+    "crumbs": [
+      "About Me"
+    ]
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Test\n\n\nThis is just a test.\n\n\n\n\n\nFeb 11, 2026\n\n\nSelvin Carrillo\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog"
     ]
   },
   {
@@ -22,35 +63,5 @@
     "title": "Current",
     "section": "",
     "text": "These Apps were created while learning shiny!\n\nTo learn move about College Score data\nTo learn more about Gun Deaths in the US"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Test\n\n\nThis is just a test.\n\n\n\n\n\nFeb 11, 2026\n\n\nSelvin Carrillo\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Blog"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Welcome!\nSelvin Carrillo is currently a Ph.D. student in the Department of Horticulture at the University of Georgia. His research focuses on enhancing orchard management practices such as mineral nutrition, root phenotyping, irrigation scheduling, and rootstock-scion interactions in peaches. These projects are under the supervision of Dr. Dario Chavez Chavez Lab.\nSelvin Carrillo was born in Guatemala, where he earned a bachelor’s degree in Agronomy at the University of San Carlos and a specialization in Agricultural Research through the partnership ICTA-CUNOC-IICA/CRIA. Before graduate school, he did an internship through the Worldwide Farmers Exchange Program, and worked at the Inter-American Institute for Cooperation on Agriculture IICA-TAAF Meso Andino Project, the Instituto de Ciencia y Tecnología Agrícolas, and the Farmer-to-Farmer Program implemented by Partners of the Americas. He then completed a master’s degree in Crop Science at North Carolina State University working in heat stress.",
-    "crumbs": [
-      "About Me"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Welcome to my website! I am so glad you are here.\n\n  \n    \n\n    \n  \n    \n     Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     ResearchGate\n  \n  \n    \n     Resume\n  \n\n  \n  \nI am a Ph.D student in the Department of Horticulture at the University of Georgia, USA. I am part of the Peach and Critrus Breeding program in the Dr. Dario Chavez Lab. Learn more about me here.\nEducation\n\nNorth Carolina State University | Raleigh, NC\n\nM.S. in Crop Science | Jan 2021 - Dec 2022\n\nUniversidad de San Carlos | Guatemala\n\nB.S. Agronomy with Emphasis in Fruit Crops | Jan 2008 - May 2014\n\n\n\n\n\n\n\n\nLove Peaches",
-    "crumbs": [
-      "Welcome!"
-    ]
   }
 ]

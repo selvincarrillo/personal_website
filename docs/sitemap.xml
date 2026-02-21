@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://selvincarrillo.github.io/personal_website/resources.html</loc>
-    <lastmod>2026-02-21T02:20:17.973Z</lastmod>
+    <loc>https://selvincarrillo.github.io/personal_website/Resources.html</loc>
+    <lastmod>2026-02-21T17:59:23.619Z</lastmod>
   </url>
   <url>
-    <loc>https://selvincarrillo.github.io/personal_website/projects/current/current_projects.html</loc>
-    <lastmod>2026-02-21T15:29:34.587Z</lastmod>
+    <loc>https://selvincarrillo.github.io/personal_website/Projects.html</loc>
+    <lastmod>2026-02-21T17:50:05.111Z</lastmod>
   </url>
   <url>
-    <loc>https://selvincarrillo.github.io/personal_website/blog.html</loc>
-    <lastmod>2026-02-21T16:01:18.223Z</lastmod>
-  </url>
-  <url>
-    <loc>https://selvincarrillo.github.io/personal_website/about.html</loc>
-    <lastmod>2026-02-21T02:50:08.071Z</lastmod>
+    <loc>https://selvincarrillo.github.io/personal_website/index.html</loc>
+    <lastmod>2026-02-21T18:23:18.009Z</lastmod>
   </url>
   <url>
     <loc>https://selvincarrillo.github.io/personal_website/blog/first-post.html</loc>
     <lastmod>2026-02-21T16:07:50.373Z</lastmod>
   </url>
   <url>
-    <loc>https://selvincarrillo.github.io/personal_website/index.html</loc>
-    <lastmod>2026-02-21T18:23:18.009Z</lastmod>
+    <loc>https://selvincarrillo.github.io/personal_website/about.html</loc>
+    <lastmod>2026-02-21T17:59:23.625Z</lastmod>
+  </url>
+  <url>
+    <loc>https://selvincarrillo.github.io/personal_website/blog.html</loc>
+    <lastmod>2026-02-21T16:01:18.223Z</lastmod>
+  </url>
+  <url>
+    <loc>https://selvincarrillo.github.io/personal_website/projects/current/current_projects.html</loc>
+    <lastmod>2026-02-21T15:29:34.587Z</lastmod>
   </url>
   <url>
     <loc>https://selvincarrillo.github.io/personal_website/publications.html</loc>
