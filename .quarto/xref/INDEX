@@ -13,5 +13,32 @@
   },
   "Resources.qmd": {
     "Resources.html": "616bce79"
+  },
+  "Projects.qmd": {
+    "Projects.html": "c698d30d"
+  },
+  "projects.qmd": {
+    "projects.html": "017b4eb9"
+  },
+  "resources.qmd": {
+    "resources.html": "54bd747b"
+  },
+  "docs/Projects.qmd": {
+    "Projects.html": "c2d4bef6"
+  },
+  "docs/projects.qmd": {
+    "projects.html": "f6f874ca"
+  },
+  "publications.qmd": {
+    "publications.html": "63af5234"
+  },
+  "projects/current/current_projects.qmd": {
+    "current_projects.html": "e8fd3fb0"
+  },
+  "blog.qmd": {
+    "blog.html": "6a68de32"
+  },
+  "blog/first-post.qmd": {
+    "first-post.html": "0242a1db"
   }
 }
