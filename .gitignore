@@ -8,6 +8,7 @@
 **/*.quarto_ipynb
 
 # folders 
-data
-documents_to_upload
-imgages
+data/
+documents_to_upload/
+images/
+projects/
