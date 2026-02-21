@@ -1,0 +1,10 @@
+---
+title: Test
+image: images/nectarine.jpg
+image-alt: Nectarine
+description: |
+  This is just a test.
+author: Selvin Carrillo
+date: 2026-02-11
+categories: [research, conferences]
+---

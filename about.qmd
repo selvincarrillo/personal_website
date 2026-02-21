@@ -1,0 +1,11 @@
+---
+title: "About Me"
+format: html
+---
+
+### Welcome! 
+
+Selvin Carrillo is currently a Ph.D. student in the Department of Horticulture at the University of 
+Georgia. His research focuses on enhancing orchard management practices such as mineral nutrition, root phenotyping, irrigation scheduling, and rootstock-scion interactions in peaches. These projects are under the supervision of Dr. Dario Chavez [Chavez Lab](https://site.caes.uga.edu/chavezlab/).
+
+Selvin Carrillo was born in Guatemala, where he earned a bachelor’s degree in Agronomy at the [University of San Carlos](https://cunoroc.edu.gt/joomla30/index.php/digitales) and a specialization in Agricultural Research through the partnership [ICTA-CUNOC-IICA/CRIA](https://www.icta.gob.gt/noticias/junio2016/FYCIA.pdf). Before graduate school, he did an internship through the [Worldwide Farmers Exchange Program](https://worldwidefarmers.org/our-mission-and-story/), and worked at the Inter-American Institute for Cooperation on Agriculture [IICA-TAAF Meso Andino Project](https://www.fao.org/family-farming/detail/es/c/327417/), the [Instituto de Ciencia y Tecnología Agrícolas](https://icta.gob.gt/), and the [Farmer-to-Farmer Program](https://farmer-to-farmer.org/) implemented by Partners of the Americas. He then completed a master's degree in Crop Science at North Carolina State University working in heat stress. 

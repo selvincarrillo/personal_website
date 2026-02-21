@@ -1,9 +1,11 @@
 ---
-title: "Selvin Carrillo"
-image: peaches.jpg
+title: "Welcome!"
+image: images/people/Selvin.jpg
+
 
 about:
-  template: jolla
+  id: heading
+  template: trestles
   image-shape: round 
   image-width: 15em
   links:
@@ -16,15 +18,33 @@ about:
      - text: GitHub
        icon: github
        href: https://github.com/selvincarrillo
+     - icon: file-text
+       text: ResearchGate
+       href: https://www.researchgate.net/profile/Selvin-Carrillo-Ramos
      - text: Resume 
        icon: file-text
-       href: CV_SCR.pdf
+       href: documents_to_upload/Resume_SelvinCarrillo.pdf
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my website! I am so glad you are here.
 
-```{r}
-1 + 1
-```
+:::{#heading}
+I am a Ph.D student in the Department of Horticulture at the University of Georgia, USA. I am part of the Peach and Critrus Breeding program in the [Dr. Dario Chavez Lab](https://site.caes.uga.edu/chavezlab/). Learn more about me [here](about.qmd).  
+
+
+*Education*
+
+- North Carolina State University | Raleigh, NC  
+  - M.S. in Crop Science | Jan 2021 - Dec 2022   
+  
+- Universidad de San Carlos | Guatemala  
+  - B.S. Agronomy with Emphasis in Fruit Crops | Jan 2008 - May 2014  
+
+:::
+
+
+
+
+![Love Peaches](images/peaches/fruit_2.jpg)
+

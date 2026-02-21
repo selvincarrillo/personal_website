@@ -2,3 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+
+/.quarto/
+
+**/*.quarto_ipynb
+
+# folders 
+data
+documents_to_upload
+imgages

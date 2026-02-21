@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: Selvin Carrillos's Website 
+  description: "Here, you'll find information about my projects, publications, and resources related to my work in agriculture. Feel free to explore and connect with me!"
+  site-url: https://selvincarrillo.github.io/personal_website/
+  open-graph: true
+  image: images/fruit_1.png
+  image-alt: Peach breeding
+  sidebar:
+    contents:
+      - index.qmd
+      - about.qmd
+      - section: Projects 
+        contents: 
+          - section: Current
+            contents:
+              - current_projects.qmd
+      - publications.qmd
+      - blog.qmd
+      - resources.qmd
+    tools:
+      - href: https://github.com/selvincarrillo
+        text: GitHub
+        icon: github
+
+
+  
+  
+format:
+  html:
+    theme: [lux, brand]
+    mainfont: arial
+    fontsize: 12pt
+    fontcolor: black
+    linkcolor: "blue"
+    mono-font: courier new
+    # css: style.css
+    toc: true
+  
+
+
+
