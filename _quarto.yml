@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: Selvin Carrillos's Website 
+  title: Selvin Carrillo's Website 
   description: "Here, you'll find information about my projects, publications, and resources related to my work in agriculture. Feel free to explore and connect with me!"
   site-url: https://selvincarrillo.github.io/personal_website/
   open-graph: true
